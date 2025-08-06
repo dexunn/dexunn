@@ -4,7 +4,7 @@ I'm a Data Science & Analytics student at NUS who enjoys working with real-world
 
 🧠 **Recently worked on**  
 • A Reddit toxicity detection bot using BERT + PyTorch  
-• Live Tableau dashboards powered by BigQuery and SQL  
+• Live Tableau dashboards powered by Google Cloud Platform and SQL  
 • Automation scripts to streamline ETL and reduce cloud costs  
 
 📊 **Current focus areas**  
